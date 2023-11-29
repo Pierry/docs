@@ -1,0 +1,112 @@
+[
+	{
+		"name": "Java",
+		"ring": "adopt",
+		"quadrant": "Languages",
+		"isNew": "FALSE",
+		"description": "Java remains a robust and widely-used programming language, especially in enterprise environments."
+	},
+	{
+		"name": "VueJS",
+		"ring": "adopt",
+		"quadrant": "Languages & Frameworks",
+		"isNew": "FALSE",
+		"description": "VueJS is a progressive JavaScript framework for building user interfaces, known for its simplicity and flexibility."
+	},
+	{
+		"name": "SpringBoot",
+		"ring": "adopt",
+		"quadrant": "Languages & Frameworks",
+		"isNew": "FALSE",
+		"description": "SpringBoot simplifies the development of stand-alone, production-grade Spring-based applications."
+	},
+	{
+		"name": "ArgoCD",
+		"ring": "adopt",
+		"quadrant": "Tools",
+		"isNew": "FALSE",
+		"description": "ArgoCD is a declarative, GitOps continuous delivery tool for Kubernetes."
+	},
+	{
+		"name": "GCP",
+		"ring": "adopt",
+		"quadrant": "Platforms",
+		"isNew": "FALSE",
+		"description": "Google Cloud Platform offers a suite of cloud computing services that runs on the same infrastructure used by Google internally."
+	},
+	{
+		"name": "REST",
+		"ring": "adopt",
+		"quadrant": "Techniques",
+		"isNew": "FALSE",
+		"description": "RESTful APIs provide a standard and lightweight way to communicate between applications."
+	},
+	{
+		"name": "Flutter",
+		"ring": "adopt",
+		"quadrant": "Languages & Frameworks",
+		"isNew": "FALSE",
+		"description": "Flutter is an open-source UI software development kit created by Google for building natively compiled applications for mobile, web, and desktop."
+	},
+	{
+		"name": "Kotlin",
+		"ring": "adopt",
+		"quadrant": "Languages",
+		"isNew": "FALSE",
+		"description": "Kotlin is a modern, statically typed programming language that boosts productivity and developer satisfaction."
+	},
+	{
+		"name": "Dart",
+		"ring": "adopt",
+		"quadrant": "Languages",
+		"isNew": "FALSE",
+		"description": "Dart is a client-optimized language for developing fast apps on any platform."
+	},
+	{
+		"name": "Android",
+		"ring": "adopt",
+		"quadrant": "Platforms",
+		"isNew": "FALSE",
+		"description": "Android remains the most popular mobile operating system, offering extensive customization and flexibility."
+	},
+	{
+		"name": "RabbitMQ",
+		"ring": "adopt",
+		"quadrant": "Tools",
+		"isNew": "FALSE",
+		"description": "RabbitMQ is a widely-used open-source message broker software that facilitates complex routing."
+	},
+	{
+		"name": "Go",
+		"ring": "assess",
+		"quadrant": "Languages",
+		"isNew": "FALSE",
+		"description": "Go is an open-source programming language designed for simplicity, efficiency, and reliability."
+	},
+	{
+		"name": "ReactJs",
+		"ring": "assess",
+		"quadrant": "Languages & Frameworks",
+		"isNew": "FALSE",
+		"description": "ReactJs is a popular JavaScript library for building user interfaces, particularly single-page applications."
+	},
+	{
+		"name": "Amazon",
+		"ring": "assess",
+		"quadrant": "Platforms",
+		"isNew": "FALSE",
+		"description": "Amazon Web Services (AWS) offers reliable, scalable, and inexpensive cloud computing services."
+	},
+	{
+		"name": "SQS",
+		"ring": "assess",
+		"quadrant": "Tools",
+		"isNew": "FALSE",
+		"description": "Amazon Simple Queue Service (SQS) is a distributed message queuing service that enables decoupling and scaling of microservices, distributed systems, and serverless applications."
+	},
+	{
+		"name": "SNS",
+		"ring": "assess",
+		"quadrant": "Tools",
+		"isNew": "FALSE",
+		"description": "Amazon Simple Notification Service (SNS) is a flexible, fully
